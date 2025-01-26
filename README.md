@@ -175,6 +175,7 @@ This analysis helps educators focus on areas that need improvement, ensuring tha
 ```
 
 This layout organizes the results into four distinct tables, each covering a different aspect of the performance analysis, making it more readable and easier to digest.
+
 ![download](https://github.com/user-attachments/assets/678691d0-c799-45de-a4a0-e4dc6451e69a)
 
 ### *Figure 1: Bar Chart - Average Marks Per Subject*
