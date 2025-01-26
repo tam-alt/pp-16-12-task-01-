@@ -2,13 +2,13 @@
 ### Introduction: Student Marks and Grades Management System
 This program is a Python-based solution for managing and analyzing student marks and grades. It allows users to add, update, delete, and search student records while automatically calculating grades and total marks. With features like class performance analysis, data visualization, and a menu-driven interface, the system provides an efficient way to handle student data and gain meaningful insights. It is built using `pandas`, `matplotlib`, and `re` for seamless data management and presentation.
 
-**##Data Initialization: Storing Initial Student Data**
+**Data Initialization: Storing Initial Student Data**
 This code initializes a student dataset with basic information, such as student IDs, names, and marks in various subjects (Math, English, and Science).
 A placeholder is created for total marks (Marks) and grades (Grade).
 The dataset is converted into a CSV file (students_data.csv), so the data can be reused later.
 If the file already exists, the script will load the existing data instead of overwriting it.
 
-**##Student Record Management Functions**
+**Student Record Management Functions**
 This section introduces functions to manage student records in the dataset efficiently. Below are the functions and their roles:
 add_student(student_id, name, marks)
 Adds a new student record to the dataset.
@@ -35,7 +35,8 @@ These functions ensure efficient addition, modification, and deletion of student
 
 Here’s the accompanying markdown explanation for this section in Colab:
 
-**##Grade Calculation Function**
+**Grade Calculation Function**
+
 calculate_grade(marks)
 
 This function determines a student's grade based on their total marks.
